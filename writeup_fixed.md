@@ -40,7 +40,7 @@ vol2 -f memdump.mem --profile=Win10x64_19041 mftparser | grep -i "desktop"
 Hasilnya, ditemukan file bernama `flag.enc` di Desktop.
 
 > **Kenapa `filescan` Volatility3 tidak berhasil?**
-> Plugin `filescan` hanya mencari file yang masih terdaftar di memory (file object yang aktif). Sedangkan `mftparser` membaca langsung dari struktur MFT (Master File Table) di disk image, sehingga bisa menemukan file yang sudah dihapus atau tidak lagi aktif di memory.
+Plugin `filescan` hanya mencari file yang masih terdaftar di memory (file object yang aktif). Sedangkan `mftparser` membaca langsung dari struktur MFT (Master File Table) di disk image, sehingga bisa menemukan file yang sudah dihapus atau tidak lagi aktif di memory.
 
 ---
 
