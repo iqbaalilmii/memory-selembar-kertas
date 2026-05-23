@@ -29,7 +29,7 @@ aku udah coba dump flag.enc itu pake plugin dumpfiles, tapi plugin filescan ga n
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/2b3d4c78-2207-42b6-9ede-80e5a884b96b" />
 
-disini aku langsung aja pake tool findnya HxD search all "flag.enc" dan nemu script Powershell ini
+disini aku pake tool findnya HxD search all "flag.enc" dan nemu script Powershell ini
 
 ```
 $ifPath = [System.IO.Path]::Combine([System.Environment]::GetFolderPath('Desktop'), 'flag.png')
