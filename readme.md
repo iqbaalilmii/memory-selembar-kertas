@@ -10,4 +10,4 @@ Challenge Details
 * **Difficulty:** Easy
 * **Author:** Iqbal
 
-Challenge File : https://drive.google.com/file/d/1T-uPoyUHZCRti8gVaE2DA4PIBrnjR6Y5/view
+Challenge File : https://drive.google.com/file/d/1DHEQLPOXdJzidis-2cwe9UUw0mb327ZO/view
