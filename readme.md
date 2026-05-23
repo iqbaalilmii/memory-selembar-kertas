@@ -2,7 +2,7 @@ CTF Challenge: memory-selembar-kertas
 
 Description
 
-I wrote the flag in my favorite text editor, can u find it?
+aku ninggalin gambar flagnya di Desktop, tapi tiba tiba hilang... kamu bisa ga bantu aku recover flagnya?
 
 Challenge Details
 
